@@ -1,0 +1,8 @@
+form 
+event 
+bom 
+animasiya
+loaclestorage
+classList
+QuerySeletor
+setAttribute
